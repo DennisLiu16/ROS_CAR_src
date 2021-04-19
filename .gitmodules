@@ -1,6 +1,6 @@
 [submodule "turtle_astar"]
 	url = https://github.com/NTHU-selfdrivingcar/turtle_astar.git
 [submodule "simulation_env"]
-	url = https://github.com/LDSCBOT/simulation_env
+	url = https://github.com/LDSCBOT/simulation_env.git
 [submodule "turtlebot_gazebo"]
 	url = https://github.com/NTHU-selfdrivingcar/turtlebot_gazebo.git
